@@ -1,3 +1,3 @@
 testapp
 =======
-justa test for creating a repo
+just a test for creating a repo
